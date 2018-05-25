@@ -8,7 +8,7 @@
 //    Generator #1 is on, adding 62 MW, for a total of 62 MW!
 //    Generator #2 is on, adding 62 MW, for a total of 124 MW!
 //
-// The 5th and 6th console log should like like the following:
+// The 5th and 6th console log should look like the following:
 //
 //    Generator #5 is on, adding 124 MW, for a total of 372 MW!
 //    Generator #6 is on, adding 124 MW, for a total of 496 MW!
@@ -18,3 +18,4 @@
 var currentGen = 1;
 var totalGen = 19;
 var totalMW = 0;
+

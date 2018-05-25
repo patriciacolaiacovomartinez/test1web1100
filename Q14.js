@@ -17,3 +17,9 @@ var monthsToPrint = 12;
 //    There will be 64 goldfish after 2 month(s)!
 //
 // Note: you must the the above 3 variables in your solution.
+
+while (monthsToPrint >= 1){
+    console.log(`There will be ${numGoldFish*=4} after 1 month!`)
+    monthsToPrint++;
+
+}
